@@ -1525,4 +1525,3 @@ EXCEPTION
       -- if unexceptioned error occurs, rollback
 END;
 /
-exit;
